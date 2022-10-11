@@ -1,0 +1,3 @@
+jwt:
+  secret: _@HRL&L3tF?Z7ccj4z&L5!nU2B!Rjs3_
+  expiration: 604800
